@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="letra">70dp</dimen>
+    <dimen name="titulo">30dp</dimen>
+    <dimen name="edit_text">25dp</dimen>
+    <dimen name="bt_ancho">135dp</dimen>
+    <dimen name="buttons">16dp</dimen>
+</resources>

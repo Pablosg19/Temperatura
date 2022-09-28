@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperatura</string>
+    <string name="titulo">Conversor de Temperatura</string>
+    <string name="edit_centigrados">Escribe los grados centígrados</string>
+    <string name="bt_conversor">Convertir</string>
+    <string name="bt_reset">Reset</string>
+    <string name="kelvin">0 ºk</string>
+    <string name="farenheit">0 ºF</string>
+</resources>
